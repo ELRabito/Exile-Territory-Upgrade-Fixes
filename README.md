@@ -1,4 +1,4 @@
-# xile-Territory-Upgrade-Fixes 
+# Exile-Territory-Upgrade-Fixes 
 - Doesn't show non existing base levels in the upgrade dialog.
 - Disables upgrade button if max level is reached.
 
